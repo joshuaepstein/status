@@ -8,12 +8,12 @@ sites:
     icon: https://dev.joshepstein.co.uk/img/favicon.png
   - name: JoshuaEpstein
     url: https://joshepstein.co.uk
-    icon: https://www.joshepstein.co.uk/favicon-96x96.png
+    icon: https://www.joshepstein.co.uk/img/white-logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: githubstats.joshepstein.co.uk
+  cname: status.joshepstein.co.uk
   # baseUrl: /your-repo-name
   themeUrl: https://dev.joshepstein.co.uk/css/other/status/dark-custom-style.css
   logoUrl: https://dev.joshepstein.co.uk/img/colored-logo.svg
