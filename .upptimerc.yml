@@ -13,6 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: githubstats.joshepstein.co.uk
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://dev.joshepstein.co.uk/img/colored-logo.svg
   name: JoshuaEpstein Status
   introTitle: "JoshuaEpstein Services"
