@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Development Website
     url: https://dev.joshepstein.co.uk
+    icon: https://dev.joshepstein.co.uk/img/favicon.png
   - name: JoshuaEpstein
     url: https://joshepstein.co.uk
+    icon: https://www.joshepstein.co.uk/favicon-96x96.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
