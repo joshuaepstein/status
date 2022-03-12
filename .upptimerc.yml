@@ -7,10 +7,6 @@ sites:
     url: https://dev.joshepstein.co.uk
   - name: JoshuaEpstein
     url: https://joshepstein.co.uk
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,8 +14,8 @@ status-website:
   cname: githubstats.joshepstein.co.uk
   # baseUrl: /your-repo-name
   logoUrl: https://dev.joshepstein.co.uk/img/colored-logo.svg
-  name: Upptime
-  introTitle: "Created and managed by JoshuaEpstein - Uptime"
+  name: JoshuaEpstein Status
+  introTitle: "JoshuaEpstein Services"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
@@ -28,6 +24,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Development
       href: https://dev.joshepstein.co.uk
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
