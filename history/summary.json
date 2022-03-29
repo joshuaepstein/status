@@ -4,19 +4,19 @@
     "url": "https://dev.joshepstein.co.uk",
     "icon": "https://dev.joshepstein.co.uk/img/favicon.png",
     "slug": "development-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 377,
-    "timeWeek": 212,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 185,
+    "timeDay": 296,
+    "timeWeek": 203,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 6
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://school.joshepstein.co.uk",
     "icon": "https://www.school.joshepstein.co.uk/img/logo.svg",
     "slug": "school-page",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1218,
-    "timeDay": 1218,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
+    "status": "up",
+    "uptime": "96.85%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
+    "time": 837,
+    "timeDay": 837,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 6
     }
   }
 ]
