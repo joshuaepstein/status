@@ -10,6 +10,7 @@ sites:
     url: https://joshepstein.co.uk
     icon: https://www.joshepstein.co.uk/img/white-logo.svg
   - name: School Page
+    url: https://school.joshepstein.co.uk
     icon: https://www.school.joshepstein.co.uk/img/logo.svg
 
 status-website:
