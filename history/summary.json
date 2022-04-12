@@ -40,17 +40,19 @@
     "url": "https://school.joshepstein.co.uk",
     "icon": "https://www.school.joshepstein.co.uk/img/logo.svg",
     "slug": "school-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 235,
-    "timeWeek": 161,
-    "timeMonth": 246,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 200,
+    "timeWeek": 162,
+    "timeMonth": 242,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   }
 ]
