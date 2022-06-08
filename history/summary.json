@@ -4,10 +4,10 @@
     "url": "https://dev.joshepstein.co.uk",
     "icon": "https://dev.joshepstein.co.uk/img/favicon.png",
     "slug": "development-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 435,
@@ -16,6 +16,7 @@
     "timeMonth": 329,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2022-06-08": 2,
       "2022-04-14": 55
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://www.joshepstein.co.uk/img/white-logo.svg",
     "slug": "joshua-epstein",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 270,
     "timeDay": 298,
     "timeWeek": 403,
     "timeMonth": 519,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-06-08": 2,
+      "2022-06-08": 7,
       "2022-05-17": 22,
       "2022-04-14": 57
     }
@@ -58,7 +59,7 @@
     "timeMonth": 145,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-06-08": 945,
+      "2022-06-08": 951,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
