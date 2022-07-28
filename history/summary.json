@@ -6,17 +6,16 @@
     "slug": "development-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 372,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 236,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 215,
+    "timeWeek": 218,
+    "timeMonth": 239,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-07-28": 5,
       "2022-04-14": 55
     }
   },
@@ -27,37 +26,18 @@
     "slug": "joshua-epstein",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
-    "time": 426,
-    "timeDay": 271,
-    "timeWeek": 504,
-    "timeMonth": 330,
-    "timeYear": 426,
-    "dailyMinutesDown": {
-      "2022-07-28": 5,
-      "2022-05-17": 22,
-      "2022-04-14": 57
-    }
-  },
-  {
-    "name": "JFS Tech",
-    "url": "https://jfstech.uk",
-    "icon": "https://jfstech.uk/logo.svg",
-    "slug": "jfs-tech",
-    "status": "up",
-    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 815,
-    "timeWeek": 815,
-    "timeMonth": 815,
-    "timeYear": 815,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.96%",
+    "time": 424,
+    "timeDay": 167,
+    "timeWeek": 471,
+    "timeMonth": 326,
+    "timeYear": 424,
+    "dailyMinutesDown": {
+      "2022-05-17": 22,
+      "2022-04-14": 57
+    }
   }
 ]
